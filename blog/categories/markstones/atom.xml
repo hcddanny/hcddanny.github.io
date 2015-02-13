@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Chengdi Hu]]></title>
-  <link href="http://www.hcddanny.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Markstones | Chengdi Hu]]></title>
+  <link href="http://www.hcddanny.com/blog/categories/markstones/atom.xml" rel="self"/>
   <link href="http://www.hcddanny.com/"/>
   <updated>2015-02-13T17:27:37+08:00</updated>
   <id>http://www.hcddanny.com/</id>
